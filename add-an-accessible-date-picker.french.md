@@ -8,7 +8,7 @@ videoUrl: 'https://scrimba.com/c/cD9DJHr'
 ## Description
 <section id='description'>
 Les formulaires incluent souvent le champ <code>input</code>, qui peut être utilisé pour créer plusieurs contrôles de formulaire différents. L'attribut <code>type</code> sur cet élément indique quel type d'entrée sera créé.
-Vous avez peut-être remarqué les types de saisie <code>text</code> et <code>submit</code> dans les défis précédents, HTML5 a introduit une option pour spécifier un champ <code>date</code>. Selon la prise en charge du navigateur, un sélecteur de date apparaît dans le champ <code>input</code> lorsqu'il est en évidence, ce qui facilite le remplissage d'un formulaire pour tous les utilisateurs.
+Vous avez peut-être remarqué les types de saisie <code>text</code> et <code>submit</code> dans les défis précédents? Eh bien, HTML5 a introduit une option pour spécifier un champ <code>date</code>. Selon la prise en charge du navigateur, un sélecteur de date apparaît dans le champ <code>input</code> lorsqu'il est en évidence, ce qui facilite le remplissage d'un formulaire pour tous les utilisateurs.
 Pour les navigateurs plus anciens, le type sera par défaut <code>text</code>, il est donc utile d'afficher le format de date prévu sur l'étiquette ou sous forme de texte de remplacement au cas où.
 En voici un exemple :
 <blockquote>&lt;label for=&quot;input1&quot;&gt;Entrez une date :&lt;/label&gt;<br>&lt;input type=&quot;date&quot; id=&quot;input1&quot; name=&quot;input1&quot;&gt;<br></blockquote>
