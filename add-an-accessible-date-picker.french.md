@@ -16,7 +16,7 @@ En voici un exemple :
 
 ## Instructions
 <section id='instructions'>
-Camper Cat is setting up a Mortal Kombat tournament and wants to ask his competitors to see what date works best. Add an <code>input</code> tag with a <code>type</code> attribute of "date", an <code>id</code> attribute of "pickdate", and a <code>name</code> attribute of "date".
+Camper Cat est en train d'organiser un tournoi de Mortal Kombat et veut demander à ses concurrents de voir quelle date fonctionne le mieux. Ajouter un tag <code>input</code> avec un attribut <code>type</code> de "date", un attribut <code>id</code> de "pickdate", et un attribut <code>name</code> de "date".
 </section>
 
 ## Tests
